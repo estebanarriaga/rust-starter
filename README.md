@@ -38,3 +38,9 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Github Actions
+
+This project uses GitHub Actions for continuous integration. The workflow is defined in the `.github/workflows/ci.yml` file. It runs the tests and builds the project on every push and pull request.
+
+To view the status of the latest workflow runs, visit the [Actions](https://github.com/yourusername/rust-template/actions) tab in the repository.

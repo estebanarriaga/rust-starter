@@ -22,3 +22,6 @@ docs: ## Generate the project documentation
 
 test: ## Run tests
 	cargo test
+
+fmt: ## Format the code
+	cargo fmt
